@@ -1,0 +1,26 @@
+body
+{
+	background: url('../img/backphoto.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+header
+{
+	background: rgba(255,0,255,0.3);
+	
+}
+
+header h1
+	{
+		text-align:left;
+		color: #fff;
+	}
+header ul
+{
+	text-align: right;
+}
+header li
+{
+	background-color: blue;
+}
